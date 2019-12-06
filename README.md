@@ -1,5 +1,15 @@
 ## TypeScript Tutorial
 
+- Basic commands
+
+```
+npm i -g typescript // install typescript globaly
+tsc main // transpile main.ts file into main.js
+node main // compile main.js
+tsc main --watch // watch for changes on main.ts
+```
+
+
 ```
 export {};
 let message = 'Welcome back!';
